@@ -1,4 +1,4 @@
-// Advanced Table Sorting with Search
+// Table Sorting with Search
 class SortableTable {
     constructor(tableElement) {
         this.table = tableElement;
